@@ -1,4 +1,4 @@
-<img src="https://c4.wallpaperflare.com/wallpaper/42/94/569/programming-php-code-developer-wallpaper-preview.jpg" alt="wall" />
+<img width="100%" height="450px" src="https://c4.wallpaperflare.com/wallpaper/42/94/569/programming-php-code-developer-wallpaper-preview.jpg" alt="wall" />
 <h1 align="center">Hi 👋, I'm Shubham Rakhonde</h1>
 <h3 align="center">A passionate React Developer from India</h3>
 
