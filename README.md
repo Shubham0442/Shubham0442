@@ -2,7 +2,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ==================================================================================================================================
 Aspiring Full Stack Web Developer
 -------------------
-I have been learning mern stack development since last 6 months in the bootcamp. I have more passion for the front end development.
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [https://shubham0442.github.io/]()
 * ✉️  You can contact me at [shubhammrakhonde@gmail.com]()
