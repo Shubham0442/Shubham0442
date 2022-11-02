@@ -1,5 +1,5 @@
 
-<img  width="100%" height="250px" src="https://c8.alamy.com/comp/CY2BHT/web-development-concept-in-word-tag-cloud-on-black-background-CY2BHT.jpg"/>
+<img  width="100%" height="250px" src="https://wallpaperaccess.com/full/2979290.jpg" />
 
 <h1 align="center">Hi👋,I'm Shubham Rakhonde</h1>
 
@@ -12,12 +12,12 @@
 
 - 👯 I’m looking to collaborate on **MERN Stack related projects**
 
-- 🤝 I love creating webistes using **MERN Stack and learning new     technologies**
+- 🤝 I love creating webistes using **MERN Stack and learning new          technologies**
 
 - 📫 How to reach me **shubhammrakhonde@gmail.com**
 
 - ⚡ I love **riding bike and collecting information 
-    about cars and bikes through reviews**
+        about cars and bikes through reviews**
  
 <br /><br /><br /><br /><br />
 
