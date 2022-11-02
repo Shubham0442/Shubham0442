@@ -1,11 +1,18 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Shubham Rakhonde
+
+<img  width="100%" height="250px" src="https://c8.alamy.com/comp/CY2BHT/web-development-concept-in-word-tag-cloud-on-black-background-CY2BHT.jpg"/>
+
+<h1 align="center">Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Shubham Rakhonde</h1>
 ==============================================================================================================================
-Aspiring Full Stack Web Developer
--------------------
-* 🌍  I'm based in India
-* 🖥️  See my portfolio at [https://shubham0442.github.io/]()
-* ✉️  You can contact me at [shubhammrakhonde@gmail.com]()
-* 🧠  I'm learning MERN Stack
+An Aspiring Full Stack Web Developer
+<h2 align="center">An Aspiring Full Stack Web Developer</h2>
+<h3>A passionate web developer having keen interest in developing dynamic web applications and always eager to learn new technologies. I'm skilled at MERN stack and have made some cool projects. Do check them out.</h3>
+<br/>
+ <img align="right" width="450px" height="290px" src="https://images.unsplash.com/photo-1581309638082-877cb8132535?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"/>
+- 🌱 I’m currently learning **MERN Stack**
+- 👯 I’m looking to collaborate on **MERN Stack related projects**
+- 🤝 I love creating webistes using **MERN Stack and learning new technologies**
+- 📫 How to reach me **shubhammrakhonde@gmail.com**
+- ⚡ I love **riding bike and collecting information about cars and bikes through reviews**
  
 
 
