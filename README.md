@@ -2,8 +2,7 @@
 <img  width="100%" height="250px" src="https://c8.alamy.com/comp/CY2BHT/web-development-concept-in-word-tag-cloud-on-black-background-CY2BHT.jpg"/>
 
 <h1 align="center">Hi👋,I'm Shubham Rakhonde</h1>
-==============================================================================================================================
-An Aspiring Full Stack Web Developer
+
 <h2 align="center">An Aspiring Full Stack Web Developer</h2>
 <h3>A passionate web developer having keen interest in developing dynamic web applications and always eager to learn new technologies. I'm skilled at MERN stack and have made some cool projects. Do check them out.</h3>
 <br/>
@@ -20,7 +19,7 @@ An Aspiring Full Stack Web Developer
 - ⚡ I love **riding bike and collecting information 
 about cars and bikes through reviews**
  
-
+<br /><br /><br /><br /><br />
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
