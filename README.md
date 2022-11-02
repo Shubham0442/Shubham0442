@@ -1,12 +1,12 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Shubham Rakhonde
-==================================================================================================================================
-                                             Aspiring Full Stack Web Developer
-                                                    -------------------
-                                            * 🌍  I'm based in India
-                                            * 🖥️  See my portfolio at [https://shubham0442.github.io/]()
-                                            * ✉️  You can contact me at [shubhammrakhonde@gmail.com]()
-                                            * 🧠  I'm learning React
-                                            * ⚡  Trekking, Bungee-jumping, Rappel-down 
+==============================================================================================================================
+Aspiring Full Stack Web Developer
+-------------------
+* 🌍  I'm based in India
+* 🖥️  See my portfolio at [https://shubham0442.github.io/]()
+* ✉️  You can contact me at [shubhammrakhonde@gmail.com]()
+* 🧠  I'm learning MERN Stack
+ 
 
 
 <h3 align="center">Connect with me:</h3>
