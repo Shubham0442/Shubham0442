@@ -6,7 +6,7 @@
 <h2 align="center">An Aspiring Full Stack Web Developer</h2>
 <h3>A passionate web developer having keen interest in developing dynamic web applications and always eager to learn new technologies. I'm skilled at MERN stack and have made some cool projects. Do check them out.</h3>
 <br/>
- <img align="right" width="400px" height="290px" src="https://images.unsplash.com/photo-1581309638082-877cb8132535?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"/>
+ <img align="right" width="400px" height="290px" src="https://images.unsplash.com/photo-1498050108023-c5249f4df085?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1172&q=80"/>
  
 - 🌱 I’m currently learning **MERN Stack**
 
