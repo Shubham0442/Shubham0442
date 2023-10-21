@@ -14,9 +14,9 @@
 
 - 🤝 I love creating webistes using **MERN Stack and learning new technologies**
 
-- 📫 How to reach me **shubhammrakhonde@gmail.com**
+- 📫 Can reach to me at **shubhammrakhonde@gmail.com**
 
-- ⚡ I love **riding bike and collecting information about cars and bikes through reviews**
+- ⚡ I love **riding a bike and collecting information about cars and bikes through reviews**
  
 <br /><br /><br /><br /><br />
 
