@@ -76,7 +76,44 @@
 </p>
 
 
-<div width="100%" align="center"><a href="https://github.com/Shubham0442/shoes-for-men-project" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Shubham0442&repo=shoes-for-men-project&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Shubham0442/ideakart-clone" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Shubham0442&repo=ideakart-clone&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-<div width="100%" align="center"><a href="https://github.com/Shubham0442/mighty-cobweb-4218" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Shubham0442&repo=mighty-cobweb-4218&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Shubham0442/max-fashion-clone" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Shubham0442&repo=max-fashion-clone&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center">
+      <a href="https://github.com/Bhavesh2302/quad-goals" align="left"
+        ><img
+          align="left"
+          width="45%"
+          src="https://github-readme-stats.vercel.app/api/pin/?username=Bhavesh2302&repo=quad-goals&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a
+      ><a
+        href="https://github.com/Shubham0442/shoes-for-men-project"
+        align="left"
+        ><img
+          align="right"
+          width="45%"
+          src="https://github-readme-stats.vercel.app/api/pin/?username=Shubham0442&repo=shoes-for-men-project&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en"
+      /></a>
+    </div>
+    <br /><br /><br /><br /><br /><br /><br />
+    <div width="100%" align="center">
+      <a href="https://github.com/Shubham0442/mighty-cobweb-4218" align="left"
+        ><img
+          align="left"
+          width="45%"
+          src="https://github-readme-stats.vercel.app/api/pin/?username=Shubham0442&repo=mighty-cobweb-4218&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a
+      ><a href="https://github.com/Shubham0442/ideakart-clone" align="right"
+        ><img
+          align="right"
+          width="45%"
+          src="https://github-readme-stats.vercel.app/api/pin/?username=Shubham0442&repo=ideakart-clone&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en"
+      /></a>
+    </div>
+    <br /><br /><br /><br /><br /><br /><br />
+    <div width="100%" align="center">
+      <a href="https://github.com/Shubham0442/max-fashion-clone" align="right"
+        ><img
+          align="center"
+          width="45%"
+          src="https://github-readme-stats.vercel.app/api/pin/?username=Shubham0442&repo=max-fashion-clone&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en"
+      /></a>
+    </div>
+    <br /><br /><br /><br /><br /><br /><br />
 
 <br /><br /><br /><br /><br />
